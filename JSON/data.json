@@ -69,6 +69,16 @@
       "isAvailable": "Yes",
       "category": "Others",
       "image": "https://elleuk.cdnds.net/17/26/1024x512/landscape-1498728342-east-sister-rock-island-1.jpg"
+    },
+    {
+      "id": "ea12",
+      "name": "c",
+      "price": "100000000",
+      "quantity": "7",
+      "description": "One of the seven seas",
+      "isAvailable": "Yes",
+      "category": "Others",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Seven_seas.png/340px-Seven_seas.png"
     }
   ],
   "categories": [
@@ -100,6 +110,12 @@
       "id": "8574",
       "name": "a",
       "description": "a",
+      "isActive": true
+    },
+    {
+      "id": "f4ba",
+      "name": "c",
+      "description": "c",
       "isActive": true
     }
   ],
