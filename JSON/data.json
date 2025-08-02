@@ -49,6 +49,26 @@
       "category": "Others",
       "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
       "id": "8e0a"
+    },
+    {
+      "id": "0868",
+      "name": "a",
+      "price": "1000000",
+      "quantity": "1",
+      "description": "a",
+      "isAvailable": "No",
+      "category": "Others",
+      "image": "https://thumbs.dreamstime.com/b/blue-diamond-abstract-background-close-up-white-lights-sparkling-reflecting-light-beautiful-luxurious-350877608.jpg"
+    },
+    {
+      "id": "cbcf",
+      "name": "b",
+      "price": "10000000",
+      "quantity": "5",
+      "description": "b",
+      "isAvailable": "Yes",
+      "category": "Others",
+      "image": "https://elleuk.cdnds.net/17/26/1024x512/landscape-1498728342-east-sister-rock-island-1.jpg"
     }
   ],
   "categories": [
